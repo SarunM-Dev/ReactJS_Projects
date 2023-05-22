@@ -1,0 +1,24 @@
+.card-heading{
+    color: rgb(8, 8, 82);
+}
+.images{
+    position: absolute;
+    float: right;
+}
+.main-div{
+    color: rgb(8, 8, 82);
+    border-top: solid 10px rgb(202, 2, 2);
+    border-radius: 10px;
+}
+.Iotdeveloper{
+    border-top: solid 10px rgb(8, 248, 252);
+    border-radius: 10px;
+}
+.VrDeveloper{
+    border-top: solid 10px rgb(8, 106, 252);
+    border-radius: 10px;
+}
+.MlEngineer{
+    border-top: solid 10px rgb(8, 252, 81);
+    border-radius: 10px;
+}

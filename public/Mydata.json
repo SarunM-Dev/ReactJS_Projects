@@ -1,0 +1,20 @@
+[
+    {
+    "id": 1,
+    "logo": "https://logos-world.net/wp-content/uploads/2020/04/Puma-Logo.png",
+    "itemImg": "https://th.bing.com/th/id/OIP.zBxQUJbVz5qWZfAbgWa1tQHaE8?pid=ImgDet&rs=1",
+    "itemName": "Air Pods",
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit labore qua quaerat eaque.",
+    "price": "₹500-"
+   },
+   {
+    "id": 2,
+    "logo": "https://logos-world.net/wp-content/uploads/2020/04/Puma-Logo.png",
+    "itemImg": "https://th.bing.com/th/id/R.4e5ddc7b9152db3c76165e5845d268a8?rik=K6k784zqAssCtw&riu=http%3a%2f%2ftheindependent.sg%2fwp-content%2fuploads%2f2019%2f11%2fScreen-Shot-2019-11-04-at-9.48.05-PM.png&ehk=QV9OukW5AGa27rgk4j1RRo9pEbitAk%2fqHY%2bh3mBpMh0%3d&risl=&pid=ImgRaw&r=0",
+    "itemName": "Air Pods",
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit labore qua quaerat eaque.",
+    "price": "₹500-"
+   }
+
+
+]

@@ -1,0 +1,16 @@
+.backgroundColor{
+    background-color: rgb(12, 12, 54);
+    height: 100vh;
+}
+.heading{
+    color: white;
+}
+.rcb{
+    height: 200px;
+    width: 200px;
+    border-radius: 10px;
+}
+.csk{
+    width: 200px;
+    border-radius: 10px;
+}

@@ -1,0 +1,12 @@
+.emoji-bg{
+    margin: auto;
+    background-image: linear-gradient(rgb(231, 14, 105),rgb(247, 247, 247));
+}
+.emoji-div{
+    background-color: white;
+    border-radius: 60px;
+}
+.bg-color-feed{
+    background-color: white;
+    border-radius: 100px;
+}

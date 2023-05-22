@@ -1,0 +1,52 @@
+.login-background{
+    background-image: linear-gradient( rgb(236, 72, 236),purple);
+    background-size: cover;
+    height: 100vh;
+}
+.login-page-background{
+    background-color: rgb(249, 249, 252);
+    height: 90%;
+    width: 90%;
+    border-radius: 40px;
+    margin-top: 50px;
+    padding: 10px 10px 10px 10px;
+}
+.login-page-background-image{
+    height: 100px;
+    width: 300px;
+}
+.login-name{
+    color: black;
+    margin: auto;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.login-div{
+    margin-top: 90px;
+    background-color: white;
+    height: 400px;
+    width: 350px;
+    border-radius: 10px;
+    margin: 0 auto;
+    padding: 36px;
+    box-shadow:black 10px 10px 10px;
+}
+.login-button{
+    background-color: rgb(0, 182, 0);
+    color: white;
+    font-size: larger;
+    width: 100%;
+    border-radius: 50px;
+    height: 40px; 
+    border: none;
+    cursor: pointer;
+}
+.border{
+    border-radius: 100px;
+}
+.ChangeColor{
+    color: green;
+}
+.input-group-text{
+    background-color: white;
+}

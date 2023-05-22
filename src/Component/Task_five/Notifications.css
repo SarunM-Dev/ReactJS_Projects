@@ -1,0 +1,15 @@
+.alert{
+    width: 400px;
+    height: 60px;
+    text-align: center;
+    margin: auto;
+    margin-top: 30px;
+}
+span{
+    margin-left: 10px;
+}
+.noti_heading{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bolder;
+    margin-top: 50px;
+}

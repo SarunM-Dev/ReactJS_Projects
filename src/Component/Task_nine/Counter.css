@@ -1,0 +1,12 @@
+.friuts-bg{
+    background-color: rgb(237, 237, 28);
+    background-size: cover;
+}
+.friuts-bg-new{
+    background-color: white;
+    border-radius: 50px;
+}
+.emojis{
+    font-weight: bold;
+    color: rgb(201, 201, 36);
+}
